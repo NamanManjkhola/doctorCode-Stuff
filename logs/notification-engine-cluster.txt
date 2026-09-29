@@ -1,0 +1,570 @@
+2026-09-28T09:00:00.851Z [INFO] [api-gateway-service] [tr-5bf9674b843a] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:00:00.859Z [INFO] [api-gateway-service] [tr-5bf9674b843a] Payload validated. Category: TRANSACTIONAL, UserId: usr_10800, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:00.866Z [INFO] [api-gateway-service] [tr-5bf9674b843a] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:00:00.873Z [INFO] [api-gateway-service] [tr-5bf9674b843a] Forwarding request to notification-router. Assigned NotificationID: notif_eeb632ce
+2026-09-28T09:00:13.116Z [INFO] [api-gateway-service] [tr-6c92216a711c] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:00:13.124Z [INFO] [api-gateway-service] [tr-6c92216a711c] Payload validated. Category: TRANSACTIONAL, UserId: usr_10801, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:13.131Z [INFO] [api-gateway-service] [tr-6c92216a711c] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:00:13.138Z [INFO] [api-gateway-service] [tr-6c92216a711c] Forwarding request to notification-router. Assigned NotificationID: notif_9d0e306d
+2026-09-28T09:00:25.294Z [INFO] [api-gateway-service] [tr-8e24632abf5c] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:00:25.302Z [INFO] [api-gateway-service] [tr-8e24632abf5c] Payload validated. Category: TRANSACTIONAL, UserId: usr_10802, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:25.309Z [INFO] [api-gateway-service] [tr-8e24632abf5c] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:00:25.316Z [INFO] [api-gateway-service] [tr-8e24632abf5c] Forwarding request to notification-router. Assigned NotificationID: notif_d42ecf81
+2026-09-28T09:00:37.336Z [INFO] [api-gateway-service] [tr-5969de71b433] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:00:37.344Z [INFO] [api-gateway-service] [tr-5969de71b433] Payload validated. Category: TRANSACTIONAL, UserId: usr_10803, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:37.351Z [INFO] [api-gateway-service] [tr-5969de71b433] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:00:37.358Z [INFO] [api-gateway-service] [tr-5969de71b433] Forwarding request to notification-router. Assigned NotificationID: notif_d1900fd4
+2026-09-28T09:00:49.019Z [INFO] [api-gateway-service] [tr-99b1159e72c7] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:00:49.027Z [INFO] [api-gateway-service] [tr-99b1159e72c7] Payload validated. Category: TRANSACTIONAL, UserId: usr_10804, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:49.034Z [INFO] [api-gateway-service] [tr-99b1159e72c7] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:00:49.041Z [INFO] [api-gateway-service] [tr-99b1159e72c7] Forwarding request to notification-router. Assigned NotificationID: notif_77dba856
+2026-09-28T09:01:01.016Z [INFO] [api-gateway-service] [tr-36ec948bad0d] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:01:01.024Z [INFO] [api-gateway-service] [tr-36ec948bad0d] Payload validated. Category: TRANSACTIONAL, UserId: usr_10805, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:01.031Z [INFO] [api-gateway-service] [tr-36ec948bad0d] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:01:01.038Z [INFO] [api-gateway-service] [tr-36ec948bad0d] Forwarding request to notification-router. Assigned NotificationID: notif_19437b65
+2026-09-28T09:01:13.119Z [INFO] [api-gateway-service] [tr-9ba583c0cd41] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:01:13.127Z [INFO] [api-gateway-service] [tr-9ba583c0cd41] Payload validated. Category: TRANSACTIONAL, UserId: usr_10806, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:13.134Z [INFO] [api-gateway-service] [tr-9ba583c0cd41] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:01:13.141Z [INFO] [api-gateway-service] [tr-9ba583c0cd41] Forwarding request to notification-router. Assigned NotificationID: notif_3d960650
+2026-09-28T09:01:24.488Z [INFO] [api-gateway-service] [tr-9708e8fcfdd4] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:01:24.496Z [INFO] [api-gateway-service] [tr-9708e8fcfdd4] Payload validated. Category: TRANSACTIONAL, UserId: usr_10807, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:24.503Z [INFO] [api-gateway-service] [tr-9708e8fcfdd4] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:01:24.510Z [INFO] [api-gateway-service] [tr-9708e8fcfdd4] Forwarding request to notification-router. Assigned NotificationID: notif_82a997b8
+2026-09-28T09:01:36.795Z [INFO] [api-gateway-service] [tr-b991d5050043] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:01:36.803Z [INFO] [api-gateway-service] [tr-b991d5050043] Payload validated. Category: TRANSACTIONAL, UserId: usr_10808, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:36.810Z [INFO] [api-gateway-service] [tr-b991d5050043] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:01:36.817Z [INFO] [api-gateway-service] [tr-b991d5050043] Forwarding request to notification-router. Assigned NotificationID: notif_89dc2a02
+2026-09-28T09:01:48.319Z [INFO] [api-gateway-service] [tr-4dd3c2b8619d] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:01:48.327Z [INFO] [api-gateway-service] [tr-4dd3c2b8619d] Payload validated. Category: TRANSACTIONAL, UserId: usr_10809, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:48.334Z [INFO] [api-gateway-service] [tr-4dd3c2b8619d] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:01:48.341Z [INFO] [api-gateway-service] [tr-4dd3c2b8619d] Forwarding request to notification-router. Assigned NotificationID: notif_b74e9300
+2026-09-28T09:02:01.397Z [INFO] [api-gateway-service] [tr-805e34e4d588] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:02:01.405Z [INFO] [api-gateway-service] [tr-805e34e4d588] Payload validated. Category: TRANSACTIONAL, UserId: usr_10810, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:01.412Z [INFO] [api-gateway-service] [tr-805e34e4d588] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:02:01.419Z [INFO] [api-gateway-service] [tr-805e34e4d588] Forwarding request to notification-router. Assigned NotificationID: notif_8c6e6432
+2026-09-28T09:02:13.180Z [INFO] [api-gateway-service] [tr-c22481c2f3d5] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:02:13.188Z [INFO] [api-gateway-service] [tr-c22481c2f3d5] Payload validated. Category: TRANSACTIONAL, UserId: usr_10811, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:13.195Z [INFO] [api-gateway-service] [tr-c22481c2f3d5] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:02:13.202Z [INFO] [api-gateway-service] [tr-c22481c2f3d5] Forwarding request to notification-router. Assigned NotificationID: notif_e663b015
+2026-09-28T09:02:24.607Z [INFO] [api-gateway-service] [tr-551fe3399e22] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:02:24.615Z [INFO] [api-gateway-service] [tr-551fe3399e22] Payload validated. Category: TRANSACTIONAL, UserId: usr_10812, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:24.622Z [INFO] [api-gateway-service] [tr-551fe3399e22] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:02:24.629Z [INFO] [api-gateway-service] [tr-551fe3399e22] Forwarding request to notification-router. Assigned NotificationID: notif_ac1ac004
+2026-09-28T09:02:36.239Z [INFO] [api-gateway-service] [tr-6bcd25b4cb13] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:02:36.247Z [INFO] [api-gateway-service] [tr-6bcd25b4cb13] Payload validated. Category: TRANSACTIONAL, UserId: usr_10813, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:36.254Z [INFO] [api-gateway-service] [tr-6bcd25b4cb13] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:02:36.261Z [INFO] [api-gateway-service] [tr-6bcd25b4cb13] Forwarding request to notification-router. Assigned NotificationID: notif_bd776ab4
+2026-09-28T09:02:48.184Z [INFO] [api-gateway-service] [tr-9d7dc6c41583] POST /v1/notifications/send - Request received from client_app_shopping (ip: 10.244.1.45)
+2026-09-28T09:02:48.192Z [INFO] [api-gateway-service] [tr-9d7dc6c41583] Payload validated. Category: TRANSACTIONAL, UserId: usr_10814, Channels: [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:48.199Z [INFO] [api-gateway-service] [tr-9d7dc6c41583] Authentication & Tenant Quota Check PASSED (tenant_id: tenant_ecommerce_prod)
+2026-09-28T09:02:48.206Z [INFO] [api-gateway-service] [tr-9d7dc6c41583] Forwarding request to notification-router. Assigned NotificationID: notif_f17c6850
+2026-09-28T09:00:00.876Z [INFO] [user-preference-service] [tr-5bf9674b843a] Querying preferences for usr_10800 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:00.881Z [INFO] [user-preference-service] [tr-5bf9674b843a] Redis Cache HIT: key=pref:usr_10800 (ttl=284s)
+2026-09-28T09:00:00.886Z [INFO] [user-preference-service] [tr-5bf9674b843a] Preference evaluation result for usr_10800: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:00:13.141Z [INFO] [user-preference-service] [tr-6c92216a711c] Querying preferences for usr_10801 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:13.146Z [INFO] [user-preference-service] [tr-6c92216a711c] Redis Cache HIT: key=pref:usr_10801 (ttl=284s)
+2026-09-28T09:00:13.151Z [INFO] [user-preference-service] [tr-6c92216a711c] Preference evaluation result for usr_10801: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:00:25.319Z [INFO] [user-preference-service] [tr-8e24632abf5c] Querying preferences for usr_10802 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:25.324Z [INFO] [user-preference-service] [tr-8e24632abf5c] Redis Cache HIT: key=pref:usr_10802 (ttl=284s)
+2026-09-28T09:00:25.329Z [INFO] [user-preference-service] [tr-8e24632abf5c] Preference evaluation result for usr_10802: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:00:37.361Z [INFO] [user-preference-service] [tr-5969de71b433] Querying preferences for usr_10803 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:37.366Z [INFO] [user-preference-service] [tr-5969de71b433] Redis Cache HIT: key=pref:usr_10803 (ttl=284s)
+2026-09-28T09:00:37.371Z [INFO] [user-preference-service] [tr-5969de71b433] Preference evaluation result for usr_10803: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:00:49.044Z [INFO] [user-preference-service] [tr-99b1159e72c7] Querying preferences for usr_10804 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:00:49.049Z [INFO] [user-preference-service] [tr-99b1159e72c7] Redis Cache HIT: key=pref:usr_10804 (ttl=284s)
+2026-09-28T09:00:49.054Z [INFO] [user-preference-service] [tr-99b1159e72c7] Preference evaluation result for usr_10804: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:01:01.041Z [INFO] [user-preference-service] [tr-36ec948bad0d] Querying preferences for usr_10805 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:01.046Z [INFO] [user-preference-service] [tr-36ec948bad0d] Redis Cache HIT: key=pref:usr_10805 (ttl=284s)
+2026-09-28T09:01:01.051Z [INFO] [user-preference-service] [tr-36ec948bad0d] Preference evaluation result for usr_10805: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:01:13.144Z [INFO] [user-preference-service] [tr-9ba583c0cd41] Querying preferences for usr_10806 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:13.149Z [INFO] [user-preference-service] [tr-9ba583c0cd41] Redis Cache HIT: key=pref:usr_10806 (ttl=284s)
+2026-09-28T09:01:13.154Z [INFO] [user-preference-service] [tr-9ba583c0cd41] Preference evaluation result for usr_10806: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:01:24.513Z [INFO] [user-preference-service] [tr-9708e8fcfdd4] Querying preferences for usr_10807 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:24.518Z [INFO] [user-preference-service] [tr-9708e8fcfdd4] Redis Cache HIT: key=pref:usr_10807 (ttl=284s)
+2026-09-28T09:01:24.523Z [INFO] [user-preference-service] [tr-9708e8fcfdd4] Preference evaluation result for usr_10807: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:01:36.820Z [INFO] [user-preference-service] [tr-b991d5050043] Querying preferences for usr_10808 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:36.825Z [INFO] [user-preference-service] [tr-b991d5050043] Redis Cache HIT: key=pref:usr_10808 (ttl=284s)
+2026-09-28T09:01:36.830Z [INFO] [user-preference-service] [tr-b991d5050043] Preference evaluation result for usr_10808: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:01:48.344Z [INFO] [user-preference-service] [tr-4dd3c2b8619d] Querying preferences for usr_10809 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:01:48.349Z [INFO] [user-preference-service] [tr-4dd3c2b8619d] Redis Cache HIT: key=pref:usr_10809 (ttl=284s)
+2026-09-28T09:01:48.354Z [INFO] [user-preference-service] [tr-4dd3c2b8619d] Preference evaluation result for usr_10809: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:02:01.422Z [INFO] [user-preference-service] [tr-805e34e4d588] Querying preferences for usr_10810 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:01.427Z [INFO] [user-preference-service] [tr-805e34e4d588] Redis Cache HIT: key=pref:usr_10810 (ttl=284s)
+2026-09-28T09:02:01.432Z [INFO] [user-preference-service] [tr-805e34e4d588] Preference evaluation result for usr_10810: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:02:13.205Z [INFO] [user-preference-service] [tr-c22481c2f3d5] Querying preferences for usr_10811 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:13.210Z [INFO] [user-preference-service] [tr-c22481c2f3d5] Redis Cache HIT: key=pref:usr_10811 (ttl=284s)
+2026-09-28T09:02:13.215Z [INFO] [user-preference-service] [tr-c22481c2f3d5] Preference evaluation result for usr_10811: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:02:24.632Z [INFO] [user-preference-service] [tr-551fe3399e22] Querying preferences for usr_10812 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:24.637Z [INFO] [user-preference-service] [tr-551fe3399e22] Redis Cache HIT: key=pref:usr_10812 (ttl=284s)
+2026-09-28T09:02:24.642Z [INFO] [user-preference-service] [tr-551fe3399e22] Preference evaluation result for usr_10812: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:02:36.264Z [INFO] [user-preference-service] [tr-6bcd25b4cb13] Querying preferences for usr_10813 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:36.269Z [INFO] [user-preference-service] [tr-6bcd25b4cb13] Redis Cache HIT: key=pref:usr_10813 (ttl=284s)
+2026-09-28T09:02:36.274Z [INFO] [user-preference-service] [tr-6bcd25b4cb13] Preference evaluation result for usr_10813: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:02:48.209Z [INFO] [user-preference-service] [tr-9d7dc6c41583] Querying preferences for usr_10814 across channels [PUSH, EMAIL, SMS, IN_APP]
+2026-09-28T09:02:48.214Z [INFO] [user-preference-service] [tr-9d7dc6c41583] Redis Cache HIT: key=pref:usr_10814 (ttl=284s)
+2026-09-28T09:02:48.219Z [INFO] [user-preference-service] [tr-9d7dc6c41583] Preference evaluation result for usr_10814: PUSH=ENABLED, EMAIL=ENABLED, SMS=ENABLED, IN_APP=ENABLED
+2026-09-28T09:00:00.888Z [INFO] [rate-limiter-service] [tr-5bf9674b843a] Evaluating Token Bucket rate limit for usr_10800
+2026-09-28T09:00:00.892Z [INFO] [rate-limiter-service] [tr-5bf9674b843a] Redis EVAL token_bucket:usr_10800:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:00:00.895Z [INFO] [rate-limiter-service] [tr-5bf9674b843a] Redis EVAL token_bucket:usr_10800:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:00:00.899Z [INFO] [rate-limiter-service] [tr-5bf9674b843a] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:00:13.153Z [INFO] [rate-limiter-service] [tr-6c92216a711c] Evaluating Token Bucket rate limit for usr_10801
+2026-09-28T09:00:13.157Z [INFO] [rate-limiter-service] [tr-6c92216a711c] Redis EVAL token_bucket:usr_10801:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:00:13.160Z [INFO] [rate-limiter-service] [tr-6c92216a711c] Redis EVAL token_bucket:usr_10801:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:00:13.164Z [INFO] [rate-limiter-service] [tr-6c92216a711c] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:00:25.331Z [INFO] [rate-limiter-service] [tr-8e24632abf5c] Evaluating Token Bucket rate limit for usr_10802
+2026-09-28T09:00:25.335Z [INFO] [rate-limiter-service] [tr-8e24632abf5c] Redis EVAL token_bucket:usr_10802:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:00:25.338Z [INFO] [rate-limiter-service] [tr-8e24632abf5c] Redis EVAL token_bucket:usr_10802:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:00:25.342Z [INFO] [rate-limiter-service] [tr-8e24632abf5c] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:00:37.373Z [INFO] [rate-limiter-service] [tr-5969de71b433] Evaluating Token Bucket rate limit for usr_10803
+2026-09-28T09:00:37.377Z [INFO] [rate-limiter-service] [tr-5969de71b433] Redis EVAL token_bucket:usr_10803:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:00:37.380Z [INFO] [rate-limiter-service] [tr-5969de71b433] Redis EVAL token_bucket:usr_10803:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:00:37.384Z [INFO] [rate-limiter-service] [tr-5969de71b433] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:00:49.056Z [INFO] [rate-limiter-service] [tr-99b1159e72c7] Evaluating Token Bucket rate limit for usr_10804
+2026-09-28T09:00:49.060Z [INFO] [rate-limiter-service] [tr-99b1159e72c7] Redis EVAL token_bucket:usr_10804:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:00:49.063Z [INFO] [rate-limiter-service] [tr-99b1159e72c7] Redis EVAL token_bucket:usr_10804:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:00:49.067Z [INFO] [rate-limiter-service] [tr-99b1159e72c7] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:01:01.053Z [INFO] [rate-limiter-service] [tr-36ec948bad0d] Evaluating Token Bucket rate limit for usr_10805
+2026-09-28T09:01:01.057Z [INFO] [rate-limiter-service] [tr-36ec948bad0d] Redis EVAL token_bucket:usr_10805:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:01:01.060Z [INFO] [rate-limiter-service] [tr-36ec948bad0d] Redis EVAL token_bucket:usr_10805:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:01:01.064Z [INFO] [rate-limiter-service] [tr-36ec948bad0d] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:01:13.156Z [INFO] [rate-limiter-service] [tr-9ba583c0cd41] Evaluating Token Bucket rate limit for usr_10806
+2026-09-28T09:01:13.160Z [INFO] [rate-limiter-service] [tr-9ba583c0cd41] Redis EVAL token_bucket:usr_10806:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:01:13.163Z [INFO] [rate-limiter-service] [tr-9ba583c0cd41] Redis EVAL token_bucket:usr_10806:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:01:13.167Z [INFO] [rate-limiter-service] [tr-9ba583c0cd41] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:01:24.525Z [INFO] [rate-limiter-service] [tr-9708e8fcfdd4] Evaluating Token Bucket rate limit for usr_10807
+2026-09-28T09:01:24.529Z [INFO] [rate-limiter-service] [tr-9708e8fcfdd4] Redis EVAL token_bucket:usr_10807:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:01:24.532Z [INFO] [rate-limiter-service] [tr-9708e8fcfdd4] Redis EVAL token_bucket:usr_10807:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:01:24.536Z [INFO] [rate-limiter-service] [tr-9708e8fcfdd4] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:01:36.832Z [INFO] [rate-limiter-service] [tr-b991d5050043] Evaluating Token Bucket rate limit for usr_10808
+2026-09-28T09:01:36.836Z [INFO] [rate-limiter-service] [tr-b991d5050043] Redis EVAL token_bucket:usr_10808:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:01:36.839Z [INFO] [rate-limiter-service] [tr-b991d5050043] Redis EVAL token_bucket:usr_10808:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:01:36.843Z [INFO] [rate-limiter-service] [tr-b991d5050043] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:01:48.356Z [INFO] [rate-limiter-service] [tr-4dd3c2b8619d] Evaluating Token Bucket rate limit for usr_10809
+2026-09-28T09:01:48.360Z [INFO] [rate-limiter-service] [tr-4dd3c2b8619d] Redis EVAL token_bucket:usr_10809:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:01:48.363Z [INFO] [rate-limiter-service] [tr-4dd3c2b8619d] Redis EVAL token_bucket:usr_10809:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:01:48.367Z [INFO] [rate-limiter-service] [tr-4dd3c2b8619d] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:02:01.434Z [INFO] [rate-limiter-service] [tr-805e34e4d588] Evaluating Token Bucket rate limit for usr_10810
+2026-09-28T09:02:01.438Z [INFO] [rate-limiter-service] [tr-805e34e4d588] Redis EVAL token_bucket:usr_10810:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:02:01.441Z [INFO] [rate-limiter-service] [tr-805e34e4d588] Redis EVAL token_bucket:usr_10810:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:02:01.445Z [INFO] [rate-limiter-service] [tr-805e34e4d588] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:02:13.217Z [INFO] [rate-limiter-service] [tr-c22481c2f3d5] Evaluating Token Bucket rate limit for usr_10811
+2026-09-28T09:02:13.221Z [INFO] [rate-limiter-service] [tr-c22481c2f3d5] Redis EVAL token_bucket:usr_10811:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:02:13.224Z [INFO] [rate-limiter-service] [tr-c22481c2f3d5] Redis EVAL token_bucket:usr_10811:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:02:13.228Z [INFO] [rate-limiter-service] [tr-c22481c2f3d5] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:02:24.644Z [INFO] [rate-limiter-service] [tr-551fe3399e22] Evaluating Token Bucket rate limit for usr_10812
+2026-09-28T09:02:24.648Z [INFO] [rate-limiter-service] [tr-551fe3399e22] Redis EVAL token_bucket:usr_10812:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:02:24.651Z [INFO] [rate-limiter-service] [tr-551fe3399e22] Redis EVAL token_bucket:usr_10812:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:02:24.655Z [INFO] [rate-limiter-service] [tr-551fe3399e22] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:02:36.276Z [INFO] [rate-limiter-service] [tr-6bcd25b4cb13] Evaluating Token Bucket rate limit for usr_10813
+2026-09-28T09:02:36.280Z [INFO] [rate-limiter-service] [tr-6bcd25b4cb13] Redis EVAL token_bucket:usr_10813:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:02:36.283Z [INFO] [rate-limiter-service] [tr-6bcd25b4cb13] Redis EVAL token_bucket:usr_10813:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:02:36.287Z [INFO] [rate-limiter-service] [tr-6bcd25b4cb13] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:02:48.221Z [INFO] [rate-limiter-service] [tr-9d7dc6c41583] Evaluating Token Bucket rate limit for usr_10814
+2026-09-28T09:02:48.225Z [INFO] [rate-limiter-service] [tr-9d7dc6c41583] Redis EVAL token_bucket:usr_10814:sms - Tokens remaining: 4/5 (Pass)
+2026-09-28T09:02:48.228Z [INFO] [rate-limiter-service] [tr-9d7dc6c41583] Redis EVAL token_bucket:usr_10814:push - Tokens remaining: 48/50 (Pass)
+2026-09-28T09:02:48.232Z [INFO] [rate-limiter-service] [tr-9d7dc6c41583] Rate Limit Check PASSED for all requested channels
+2026-09-28T09:00:00.903Z [INFO] [template-engine-service] [tr-5bf9674b843a] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:00:00.909Z [INFO] [template-engine-service] [tr-5bf9674b843a] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:00:00.915Z [INFO] [template-engine-service] [tr-5bf9674b843a] Rendered template successfully. Subject: 'Your Order #ORD-94000 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:00:13.168Z [INFO] [template-engine-service] [tr-6c92216a711c] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:00:13.174Z [INFO] [template-engine-service] [tr-6c92216a711c] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:00:13.180Z [INFO] [template-engine-service] [tr-6c92216a711c] Rendered template successfully. Subject: 'Your Order #ORD-94001 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:00:25.346Z [INFO] [template-engine-service] [tr-8e24632abf5c] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:00:25.352Z [INFO] [template-engine-service] [tr-8e24632abf5c] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:00:25.358Z [INFO] [template-engine-service] [tr-8e24632abf5c] Rendered template successfully. Subject: 'Your Order #ORD-94002 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:00:37.388Z [INFO] [template-engine-service] [tr-5969de71b433] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:00:37.394Z [INFO] [template-engine-service] [tr-5969de71b433] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:00:37.400Z [INFO] [template-engine-service] [tr-5969de71b433] Rendered template successfully. Subject: 'Your Order #ORD-94003 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:00:49.071Z [INFO] [template-engine-service] [tr-99b1159e72c7] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:00:49.077Z [INFO] [template-engine-service] [tr-99b1159e72c7] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:00:49.083Z [INFO] [template-engine-service] [tr-99b1159e72c7] Rendered template successfully. Subject: 'Your Order #ORD-94004 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:01:01.068Z [INFO] [template-engine-service] [tr-36ec948bad0d] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:01:01.074Z [INFO] [template-engine-service] [tr-36ec948bad0d] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:01:01.080Z [INFO] [template-engine-service] [tr-36ec948bad0d] Rendered template successfully. Subject: 'Your Order #ORD-94005 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:01:13.171Z [INFO] [template-engine-service] [tr-9ba583c0cd41] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:01:13.177Z [INFO] [template-engine-service] [tr-9ba583c0cd41] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:01:13.183Z [INFO] [template-engine-service] [tr-9ba583c0cd41] Rendered template successfully. Subject: 'Your Order #ORD-94006 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:01:24.540Z [INFO] [template-engine-service] [tr-9708e8fcfdd4] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:01:24.546Z [INFO] [template-engine-service] [tr-9708e8fcfdd4] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:01:24.552Z [INFO] [template-engine-service] [tr-9708e8fcfdd4] Rendered template successfully. Subject: 'Your Order #ORD-94007 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:01:36.847Z [INFO] [template-engine-service] [tr-b991d5050043] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:01:36.853Z [INFO] [template-engine-service] [tr-b991d5050043] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:01:36.859Z [INFO] [template-engine-service] [tr-b991d5050043] Rendered template successfully. Subject: 'Your Order #ORD-94008 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:01:48.371Z [INFO] [template-engine-service] [tr-4dd3c2b8619d] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:01:48.377Z [INFO] [template-engine-service] [tr-4dd3c2b8619d] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:01:48.383Z [INFO] [template-engine-service] [tr-4dd3c2b8619d] Rendered template successfully. Subject: 'Your Order #ORD-94009 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:02:01.449Z [INFO] [template-engine-service] [tr-805e34e4d588] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:02:01.455Z [INFO] [template-engine-service] [tr-805e34e4d588] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:02:01.461Z [INFO] [template-engine-service] [tr-805e34e4d588] Rendered template successfully. Subject: 'Your Order #ORD-94010 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:02:13.232Z [INFO] [template-engine-service] [tr-c22481c2f3d5] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:02:13.238Z [INFO] [template-engine-service] [tr-c22481c2f3d5] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:02:13.244Z [INFO] [template-engine-service] [tr-c22481c2f3d5] Rendered template successfully. Subject: 'Your Order #ORD-94011 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:02:24.659Z [INFO] [template-engine-service] [tr-551fe3399e22] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:02:24.665Z [INFO] [template-engine-service] [tr-551fe3399e22] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:02:24.671Z [INFO] [template-engine-service] [tr-551fe3399e22] Rendered template successfully. Subject: 'Your Order #ORD-94012 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:02:36.291Z [INFO] [template-engine-service] [tr-6bcd25b4cb13] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:02:36.297Z [INFO] [template-engine-service] [tr-6bcd25b4cb13] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:02:36.303Z [INFO] [template-engine-service] [tr-6bcd25b4cb13] Rendered template successfully. Subject: 'Your Order #ORD-94013 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:02:48.236Z [INFO] [template-engine-service] [tr-9d7dc6c41583] Fetching template 'order_shipped_v2' for locale 'en_US'
+2026-09-28T09:02:48.242Z [INFO] [template-engine-service] [tr-9d7dc6c41583] Redis Cache HIT: template_id=order_shipped_v2:en_US
+2026-09-28T09:02:48.248Z [INFO] [template-engine-service] [tr-9d7dc6c41583] Rendered template successfully. Subject: 'Your Order #ORD-94014 Has Shipped!', Body size: 342 bytes
+2026-09-28T09:00:00.917Z [INFO] [notification-router] [tr-5bf9674b843a] Orchestrating multi-channel dispatch for NotificationID: notif_eeb632ce
+2026-09-28T09:00:00.925Z [INFO] [notification-router] [tr-5bf9674b843a] Resolved contact info: Email='user0@example.com', Phone='+15550190000', FCM_Token='fcm_tok_a786ae3348'
+2026-09-28T09:00:00.932Z [INFO] [notification-router] [tr-5bf9674b843a] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104500)
+2026-09-28T09:00:13.182Z [INFO] [notification-router] [tr-6c92216a711c] Orchestrating multi-channel dispatch for NotificationID: notif_9d0e306d
+2026-09-28T09:00:13.190Z [INFO] [notification-router] [tr-6c92216a711c] Resolved contact info: Email='user1@example.com', Phone='+15550190001', FCM_Token='fcm_tok_8acbdf98bb'
+2026-09-28T09:00:13.197Z [INFO] [notification-router] [tr-6c92216a711c] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104501)
+2026-09-28T09:00:25.360Z [INFO] [notification-router] [tr-8e24632abf5c] Orchestrating multi-channel dispatch for NotificationID: notif_d42ecf81
+2026-09-28T09:00:25.368Z [INFO] [notification-router] [tr-8e24632abf5c] Resolved contact info: Email='user2@example.com', Phone='+15550190002', FCM_Token='fcm_tok_3cb01c2a3f'
+2026-09-28T09:00:25.375Z [INFO] [notification-router] [tr-8e24632abf5c] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104502)
+2026-09-28T09:00:37.402Z [INFO] [notification-router] [tr-5969de71b433] Orchestrating multi-channel dispatch for NotificationID: notif_d1900fd4
+2026-09-28T09:00:37.410Z [INFO] [notification-router] [tr-5969de71b433] Resolved contact info: Email='user3@example.com', Phone='+15550190003', FCM_Token='fcm_tok_0135966503'
+2026-09-28T09:00:37.417Z [INFO] [notification-router] [tr-5969de71b433] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104503)
+2026-09-28T09:00:49.085Z [INFO] [notification-router] [tr-99b1159e72c7] Orchestrating multi-channel dispatch for NotificationID: notif_77dba856
+2026-09-28T09:00:49.093Z [INFO] [notification-router] [tr-99b1159e72c7] Resolved contact info: Email='user4@example.com', Phone='+15550190004', FCM_Token='fcm_tok_2ec0dea1c6'
+2026-09-28T09:00:49.100Z [INFO] [notification-router] [tr-99b1159e72c7] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104504)
+2026-09-28T09:01:01.082Z [INFO] [notification-router] [tr-36ec948bad0d] Orchestrating multi-channel dispatch for NotificationID: notif_19437b65
+2026-09-28T09:01:01.090Z [INFO] [notification-router] [tr-36ec948bad0d] Resolved contact info: Email='user5@example.com', Phone='+15550190005', FCM_Token='fcm_tok_204d7d1cdf'
+2026-09-28T09:01:01.097Z [INFO] [notification-router] [tr-36ec948bad0d] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104505)
+2026-09-28T09:01:13.185Z [INFO] [notification-router] [tr-9ba583c0cd41] Orchestrating multi-channel dispatch for NotificationID: notif_3d960650
+2026-09-28T09:01:13.193Z [INFO] [notification-router] [tr-9ba583c0cd41] Resolved contact info: Email='user6@example.com', Phone='+15550190006', FCM_Token='fcm_tok_d016658be6'
+2026-09-28T09:01:13.200Z [INFO] [notification-router] [tr-9ba583c0cd41] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104506)
+2026-09-28T09:01:24.554Z [INFO] [notification-router] [tr-9708e8fcfdd4] Orchestrating multi-channel dispatch for NotificationID: notif_82a997b8
+2026-09-28T09:01:24.562Z [INFO] [notification-router] [tr-9708e8fcfdd4] Resolved contact info: Email='user7@example.com', Phone='+15550190007', FCM_Token='fcm_tok_6fa2498015'
+2026-09-28T09:01:24.569Z [INFO] [notification-router] [tr-9708e8fcfdd4] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104507)
+2026-09-28T09:01:36.861Z [INFO] [notification-router] [tr-b991d5050043] Orchestrating multi-channel dispatch for NotificationID: notif_89dc2a02
+2026-09-28T09:01:36.869Z [INFO] [notification-router] [tr-b991d5050043] Resolved contact info: Email='user8@example.com', Phone='+15550190008', FCM_Token='fcm_tok_17a1485df3'
+2026-09-28T09:01:36.876Z [INFO] [notification-router] [tr-b991d5050043] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104508)
+2026-09-28T09:01:48.385Z [INFO] [notification-router] [tr-4dd3c2b8619d] Orchestrating multi-channel dispatch for NotificationID: notif_b74e9300
+2026-09-28T09:01:48.393Z [INFO] [notification-router] [tr-4dd3c2b8619d] Resolved contact info: Email='user9@example.com', Phone='+15550190009', FCM_Token='fcm_tok_9729ab6c5b'
+2026-09-28T09:01:48.400Z [INFO] [notification-router] [tr-4dd3c2b8619d] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104509)
+2026-09-28T09:02:01.463Z [INFO] [notification-router] [tr-805e34e4d588] Orchestrating multi-channel dispatch for NotificationID: notif_8c6e6432
+2026-09-28T09:02:01.471Z [INFO] [notification-router] [tr-805e34e4d588] Resolved contact info: Email='user10@example.com', Phone='+15550190010', FCM_Token='fcm_tok_a6ab2ca6e9'
+2026-09-28T09:02:01.478Z [INFO] [notification-router] [tr-805e34e4d588] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104510)
+2026-09-28T09:02:13.246Z [INFO] [notification-router] [tr-c22481c2f3d5] Orchestrating multi-channel dispatch for NotificationID: notif_e663b015
+2026-09-28T09:02:13.254Z [INFO] [notification-router] [tr-c22481c2f3d5] Resolved contact info: Email='user11@example.com', Phone='+15550190011', FCM_Token='fcm_tok_ba794041df'
+2026-09-28T09:02:13.261Z [INFO] [notification-router] [tr-c22481c2f3d5] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104511)
+2026-09-28T09:02:24.673Z [INFO] [notification-router] [tr-551fe3399e22] Orchestrating multi-channel dispatch for NotificationID: notif_ac1ac004
+2026-09-28T09:02:24.681Z [INFO] [notification-router] [tr-551fe3399e22] Resolved contact info: Email='user12@example.com', Phone='+15550190012', FCM_Token='fcm_tok_85ba8de2d5'
+2026-09-28T09:02:24.688Z [INFO] [notification-router] [tr-551fe3399e22] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104512)
+2026-09-28T09:02:36.305Z [INFO] [notification-router] [tr-6bcd25b4cb13] Orchestrating multi-channel dispatch for NotificationID: notif_bd776ab4
+2026-09-28T09:02:36.313Z [INFO] [notification-router] [tr-6bcd25b4cb13] Resolved contact info: Email='user13@example.com', Phone='+15550190013', FCM_Token='fcm_tok_48a6a4fe26'
+2026-09-28T09:02:36.320Z [INFO] [notification-router] [tr-6bcd25b4cb13] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104513)
+2026-09-28T09:02:48.250Z [INFO] [notification-router] [tr-9d7dc6c41583] Orchestrating multi-channel dispatch for NotificationID: notif_f17c6850
+2026-09-28T09:02:48.258Z [INFO] [notification-router] [tr-9d7dc6c41583] Resolved contact info: Email='user14@example.com', Phone='+15550190014', FCM_Token='fcm_tok_bb3a3cdda0'
+2026-09-28T09:02:48.265Z [INFO] [notification-router] [tr-9d7dc6c41583] Dispatched event to Kafka Topic 'notifications.high-priority' (Partition 2, Offset 104514)
+2026-09-28T09:00:00.935Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104500]
+2026-09-28T09:00:00.938Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:00:00.942Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:00:13.200Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104501]
+2026-09-28T09:00:13.203Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:00:13.207Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:00:25.378Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104502]
+2026-09-28T09:00:25.381Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:00:25.385Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:00:37.420Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104503]
+2026-09-28T09:00:37.423Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:00:37.427Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:00:49.103Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104504]
+2026-09-28T09:00:49.106Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:00:49.110Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:01:01.100Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104505]
+2026-09-28T09:01:01.103Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:01:01.107Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:01:13.203Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104506]
+2026-09-28T09:01:13.206Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:01:13.210Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:01:24.572Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104507]
+2026-09-28T09:01:24.575Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:01:24.579Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:01:36.879Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104508]
+2026-09-28T09:01:36.882Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:01:36.886Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:01:48.403Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104509]
+2026-09-28T09:01:48.406Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:01:48.410Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:02:01.481Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104510]
+2026-09-28T09:02:01.484Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:02:01.488Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:02:13.264Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104511]
+2026-09-28T09:02:13.267Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:02:13.271Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:02:24.691Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104512]
+2026-09-28T09:02:24.694Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:02:24.698Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:02:36.323Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104513]
+2026-09-28T09:02:36.326Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:02:36.330Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:02:48.268Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Message published to topic 'notifications.high-priority' [partition: 2, offset: 104514]
+2026-09-28T09:02:48.271Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] ACK received from all in-sync replicas (ISR: [1, 2, 3])
+2026-09-28T09:02:48.275Z [INFO] [kafka-queue-broker] [kafka-cluster-node-1] Consumer group 'channel-worker-group' lag: 0 messages
+2026-09-28T09:00:00.945Z [INFO] [push-worker-service] [tr-5bf9674b843a] PushWorker consumed message offset 104500 for user usr_10800
+2026-09-28T09:00:00.957Z [INFO] [push-worker-service] [tr-5bf9674b843a] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:00:00.980Z [INFO] [push-worker-service] [tr-5bf9674b843a] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132000')
+2026-09-28T09:00:13.210Z [INFO] [push-worker-service] [tr-6c92216a711c] PushWorker consumed message offset 104501 for user usr_10801
+2026-09-28T09:00:13.222Z [INFO] [push-worker-service] [tr-6c92216a711c] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:00:13.245Z [INFO] [push-worker-service] [tr-6c92216a711c] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132001')
+2026-09-28T09:00:25.388Z [INFO] [push-worker-service] [tr-8e24632abf5c] PushWorker consumed message offset 104502 for user usr_10802
+2026-09-28T09:00:25.400Z [INFO] [push-worker-service] [tr-8e24632abf5c] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:00:25.423Z [INFO] [push-worker-service] [tr-8e24632abf5c] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132002')
+2026-09-28T09:00:37.430Z [INFO] [push-worker-service] [tr-5969de71b433] PushWorker consumed message offset 104503 for user usr_10803
+2026-09-28T09:00:37.442Z [INFO] [push-worker-service] [tr-5969de71b433] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:00:37.465Z [INFO] [push-worker-service] [tr-5969de71b433] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132003')
+2026-09-28T09:00:49.113Z [INFO] [push-worker-service] [tr-99b1159e72c7] PushWorker consumed message offset 104504 for user usr_10804
+2026-09-28T09:00:49.125Z [INFO] [push-worker-service] [tr-99b1159e72c7] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:00:49.148Z [INFO] [push-worker-service] [tr-99b1159e72c7] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132004')
+2026-09-28T09:01:01.110Z [INFO] [push-worker-service] [tr-36ec948bad0d] PushWorker consumed message offset 104505 for user usr_10805
+2026-09-28T09:01:01.122Z [INFO] [push-worker-service] [tr-36ec948bad0d] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:01:01.145Z [INFO] [push-worker-service] [tr-36ec948bad0d] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132005')
+2026-09-28T09:01:13.213Z [INFO] [push-worker-service] [tr-9ba583c0cd41] PushWorker consumed message offset 104506 for user usr_10806
+2026-09-28T09:01:13.225Z [INFO] [push-worker-service] [tr-9ba583c0cd41] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:01:13.248Z [INFO] [push-worker-service] [tr-9ba583c0cd41] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132006')
+2026-09-28T09:01:24.582Z [INFO] [push-worker-service] [tr-9708e8fcfdd4] PushWorker consumed message offset 104507 for user usr_10807
+2026-09-28T09:01:24.594Z [INFO] [push-worker-service] [tr-9708e8fcfdd4] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:01:24.617Z [INFO] [push-worker-service] [tr-9708e8fcfdd4] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132007')
+2026-09-28T09:01:36.889Z [INFO] [push-worker-service] [tr-b991d5050043] PushWorker consumed message offset 104508 for user usr_10808
+2026-09-28T09:01:36.901Z [INFO] [push-worker-service] [tr-b991d5050043] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:01:36.924Z [INFO] [push-worker-service] [tr-b991d5050043] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132008')
+2026-09-28T09:01:48.413Z [INFO] [push-worker-service] [tr-4dd3c2b8619d] PushWorker consumed message offset 104509 for user usr_10809
+2026-09-28T09:01:48.425Z [INFO] [push-worker-service] [tr-4dd3c2b8619d] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:01:48.448Z [INFO] [push-worker-service] [tr-4dd3c2b8619d] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:16959132009')
+2026-09-28T09:02:01.491Z [INFO] [push-worker-service] [tr-805e34e4d588] PushWorker consumed message offset 104510 for user usr_10810
+2026-09-28T09:02:01.503Z [INFO] [push-worker-service] [tr-805e34e4d588] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:02:01.526Z [INFO] [push-worker-service] [tr-805e34e4d588] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:169591320010')
+2026-09-28T09:02:13.274Z [INFO] [push-worker-service] [tr-c22481c2f3d5] PushWorker consumed message offset 104511 for user usr_10811
+2026-09-28T09:02:13.286Z [INFO] [push-worker-service] [tr-c22481c2f3d5] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:02:13.309Z [INFO] [push-worker-service] [tr-c22481c2f3d5] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:169591320011')
+2026-09-28T09:02:24.701Z [INFO] [push-worker-service] [tr-551fe3399e22] PushWorker consumed message offset 104512 for user usr_10812
+2026-09-28T09:02:24.713Z [INFO] [push-worker-service] [tr-551fe3399e22] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:02:24.736Z [INFO] [push-worker-service] [tr-551fe3399e22] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:169591320012')
+2026-09-28T09:02:36.333Z [INFO] [push-worker-service] [tr-6bcd25b4cb13] PushWorker consumed message offset 104513 for user usr_10813
+2026-09-28T09:02:36.345Z [INFO] [push-worker-service] [tr-6bcd25b4cb13] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:02:36.368Z [INFO] [push-worker-service] [tr-6bcd25b4cb13] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:169591320013')
+2026-09-28T09:02:48.278Z [INFO] [push-worker-service] [tr-9d7dc6c41583] PushWorker consumed message offset 104514 for user usr_10814
+2026-09-28T09:02:48.290Z [INFO] [push-worker-service] [tr-9d7dc6c41583] Constructing HTTP/2 FCM payload (Title: 'Order Shipped', Badge: 1)
+2026-09-28T09:02:48.313Z [INFO] [push-worker-service] [tr-9d7dc6c41583] FCM Gateway Response: HTTP 200 OK (fcm_msg_id: '0:169591320014')
+2026-09-28T09:00:00.947Z [INFO] [email-worker-service] [tr-5bf9674b843a] EmailWorker consumed message offset 104500 for user usr_10800
+2026-09-28T09:00:00.962Z [INFO] [email-worker-service] [tr-5bf9674b843a] Assembling MIME email (To: user0@example.com, Subject: 'Your Order #ORD-94000 Has Shipped!')
+2026-09-28T09:00:01.012Z [INFO] [email-worker-service] [tr-5bf9674b843a] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_00c286f2f1')
+2026-09-28T09:00:13.212Z [INFO] [email-worker-service] [tr-6c92216a711c] EmailWorker consumed message offset 104501 for user usr_10801
+2026-09-28T09:00:13.227Z [INFO] [email-worker-service] [tr-6c92216a711c] Assembling MIME email (To: user1@example.com, Subject: 'Your Order #ORD-94001 Has Shipped!')
+2026-09-28T09:00:13.277Z [INFO] [email-worker-service] [tr-6c92216a711c] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_89258e3ebb')
+2026-09-28T09:00:25.390Z [INFO] [email-worker-service] [tr-8e24632abf5c] EmailWorker consumed message offset 104502 for user usr_10802
+2026-09-28T09:00:25.405Z [INFO] [email-worker-service] [tr-8e24632abf5c] Assembling MIME email (To: user2@example.com, Subject: 'Your Order #ORD-94002 Has Shipped!')
+2026-09-28T09:00:25.455Z [INFO] [email-worker-service] [tr-8e24632abf5c] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_7f9954a2a2')
+2026-09-28T09:00:37.432Z [INFO] [email-worker-service] [tr-5969de71b433] EmailWorker consumed message offset 104503 for user usr_10803
+2026-09-28T09:00:37.447Z [INFO] [email-worker-service] [tr-5969de71b433] Assembling MIME email (To: user3@example.com, Subject: 'Your Order #ORD-94003 Has Shipped!')
+2026-09-28T09:00:37.497Z [INFO] [email-worker-service] [tr-5969de71b433] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_e61bceae26')
+2026-09-28T09:00:49.115Z [INFO] [email-worker-service] [tr-99b1159e72c7] EmailWorker consumed message offset 104504 for user usr_10804
+2026-09-28T09:00:49.130Z [INFO] [email-worker-service] [tr-99b1159e72c7] Assembling MIME email (To: user4@example.com, Subject: 'Your Order #ORD-94004 Has Shipped!')
+2026-09-28T09:00:49.180Z [INFO] [email-worker-service] [tr-99b1159e72c7] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_ca3cfcc60f')
+2026-09-28T09:01:01.112Z [INFO] [email-worker-service] [tr-36ec948bad0d] EmailWorker consumed message offset 104505 for user usr_10805
+2026-09-28T09:01:01.127Z [INFO] [email-worker-service] [tr-36ec948bad0d] Assembling MIME email (To: user5@example.com, Subject: 'Your Order #ORD-94005 Has Shipped!')
+2026-09-28T09:01:01.177Z [INFO] [email-worker-service] [tr-36ec948bad0d] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_77f3c2beae')
+2026-09-28T09:01:13.215Z [INFO] [email-worker-service] [tr-9ba583c0cd41] EmailWorker consumed message offset 104506 for user usr_10806
+2026-09-28T09:01:13.230Z [INFO] [email-worker-service] [tr-9ba583c0cd41] Assembling MIME email (To: user6@example.com, Subject: 'Your Order #ORD-94006 Has Shipped!')
+2026-09-28T09:01:13.280Z [INFO] [email-worker-service] [tr-9ba583c0cd41] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_ec3986998c')
+2026-09-28T09:01:24.584Z [INFO] [email-worker-service] [tr-9708e8fcfdd4] EmailWorker consumed message offset 104507 for user usr_10807
+2026-09-28T09:01:24.599Z [INFO] [email-worker-service] [tr-9708e8fcfdd4] Assembling MIME email (To: user7@example.com, Subject: 'Your Order #ORD-94007 Has Shipped!')
+2026-09-28T09:01:24.649Z [INFO] [email-worker-service] [tr-9708e8fcfdd4] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_203d598ef4')
+2026-09-28T09:01:36.891Z [INFO] [email-worker-service] [tr-b991d5050043] EmailWorker consumed message offset 104508 for user usr_10808
+2026-09-28T09:01:36.906Z [INFO] [email-worker-service] [tr-b991d5050043] Assembling MIME email (To: user8@example.com, Subject: 'Your Order #ORD-94008 Has Shipped!')
+2026-09-28T09:01:36.956Z [INFO] [email-worker-service] [tr-b991d5050043] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_95617831c1')
+2026-09-28T09:01:48.415Z [INFO] [email-worker-service] [tr-4dd3c2b8619d] EmailWorker consumed message offset 104509 for user usr_10809
+2026-09-28T09:01:48.430Z [INFO] [email-worker-service] [tr-4dd3c2b8619d] Assembling MIME email (To: user9@example.com, Subject: 'Your Order #ORD-94009 Has Shipped!')
+2026-09-28T09:01:48.480Z [INFO] [email-worker-service] [tr-4dd3c2b8619d] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_27024beb82')
+2026-09-28T09:02:01.493Z [INFO] [email-worker-service] [tr-805e34e4d588] EmailWorker consumed message offset 104510 for user usr_10810
+2026-09-28T09:02:01.508Z [INFO] [email-worker-service] [tr-805e34e4d588] Assembling MIME email (To: user10@example.com, Subject: 'Your Order #ORD-94010 Has Shipped!')
+2026-09-28T09:02:01.558Z [INFO] [email-worker-service] [tr-805e34e4d588] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_06096298f1')
+2026-09-28T09:02:13.276Z [INFO] [email-worker-service] [tr-c22481c2f3d5] EmailWorker consumed message offset 104511 for user usr_10811
+2026-09-28T09:02:13.291Z [INFO] [email-worker-service] [tr-c22481c2f3d5] Assembling MIME email (To: user11@example.com, Subject: 'Your Order #ORD-94011 Has Shipped!')
+2026-09-28T09:02:13.341Z [INFO] [email-worker-service] [tr-c22481c2f3d5] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_9aaf648e2a')
+2026-09-28T09:02:24.703Z [INFO] [email-worker-service] [tr-551fe3399e22] EmailWorker consumed message offset 104512 for user usr_10812
+2026-09-28T09:02:24.718Z [INFO] [email-worker-service] [tr-551fe3399e22] Assembling MIME email (To: user12@example.com, Subject: 'Your Order #ORD-94012 Has Shipped!')
+2026-09-28T09:02:24.768Z [INFO] [email-worker-service] [tr-551fe3399e22] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_8dd741bcfd')
+2026-09-28T09:02:36.335Z [INFO] [email-worker-service] [tr-6bcd25b4cb13] EmailWorker consumed message offset 104513 for user usr_10813
+2026-09-28T09:02:36.350Z [INFO] [email-worker-service] [tr-6bcd25b4cb13] Assembling MIME email (To: user13@example.com, Subject: 'Your Order #ORD-94013 Has Shipped!')
+2026-09-28T09:02:36.400Z [INFO] [email-worker-service] [tr-6bcd25b4cb13] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_54aab45ea5')
+2026-09-28T09:02:48.280Z [INFO] [email-worker-service] [tr-9d7dc6c41583] EmailWorker consumed message offset 104514 for user usr_10814
+2026-09-28T09:02:48.295Z [INFO] [email-worker-service] [tr-9d7dc6c41583] Assembling MIME email (To: user14@example.com, Subject: 'Your Order #ORD-94014 Has Shipped!')
+2026-09-28T09:02:48.345Z [INFO] [email-worker-service] [tr-9d7dc6c41583] SendGrid API Gateway Response: HTTP 202 Accepted (sg_event_id: 'sg_evt_7db492541b')
+2026-09-28T09:00:00.949Z [INFO] [sms-worker-service] [tr-5bf9674b843a] SmsWorker consumed message offset 104500 for user usr_10800
+2026-09-28T09:00:00.957Z [INFO] [sms-worker-service] [tr-5bf9674b843a] Validated phone number format +15550190000 (E.164 compliance OK)
+2026-09-28T09:00:00.994Z [INFO] [sms-worker-service] [tr-5bf9674b843a] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMde3f1f5fbe0e', status: 'queued')
+2026-09-28T09:00:13.214Z [INFO] [sms-worker-service] [tr-6c92216a711c] SmsWorker consumed message offset 104501 for user usr_10801
+2026-09-28T09:00:13.222Z [INFO] [sms-worker-service] [tr-6c92216a711c] Validated phone number format +15550190001 (E.164 compliance OK)
+2026-09-28T09:00:13.259Z [INFO] [sms-worker-service] [tr-6c92216a711c] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMc7f095da01d2', status: 'queued')
+2026-09-28T09:00:25.392Z [INFO] [sms-worker-service] [tr-8e24632abf5c] SmsWorker consumed message offset 104502 for user usr_10802
+2026-09-28T09:00:25.400Z [INFO] [sms-worker-service] [tr-8e24632abf5c] Validated phone number format +15550190002 (E.164 compliance OK)
+2026-09-28T09:00:25.437Z [INFO] [sms-worker-service] [tr-8e24632abf5c] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM2f65c8e3016f', status: 'queued')
+2026-09-28T09:00:37.434Z [INFO] [sms-worker-service] [tr-5969de71b433] SmsWorker consumed message offset 104503 for user usr_10803
+2026-09-28T09:00:37.442Z [INFO] [sms-worker-service] [tr-5969de71b433] Validated phone number format +15550190003 (E.164 compliance OK)
+2026-09-28T09:00:37.479Z [INFO] [sms-worker-service] [tr-5969de71b433] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM163314afb25c', status: 'queued')
+2026-09-28T09:00:49.117Z [INFO] [sms-worker-service] [tr-99b1159e72c7] SmsWorker consumed message offset 104504 for user usr_10804
+2026-09-28T09:00:49.125Z [INFO] [sms-worker-service] [tr-99b1159e72c7] Validated phone number format +15550190004 (E.164 compliance OK)
+2026-09-28T09:00:49.162Z [INFO] [sms-worker-service] [tr-99b1159e72c7] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMd680ce3d90d9', status: 'queued')
+2026-09-28T09:01:01.114Z [INFO] [sms-worker-service] [tr-36ec948bad0d] SmsWorker consumed message offset 104505 for user usr_10805
+2026-09-28T09:01:01.122Z [INFO] [sms-worker-service] [tr-36ec948bad0d] Validated phone number format +15550190005 (E.164 compliance OK)
+2026-09-28T09:01:01.159Z [INFO] [sms-worker-service] [tr-36ec948bad0d] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMb4f8edf29f36', status: 'queued')
+2026-09-28T09:01:13.217Z [INFO] [sms-worker-service] [tr-9ba583c0cd41] SmsWorker consumed message offset 104506 for user usr_10806
+2026-09-28T09:01:13.225Z [INFO] [sms-worker-service] [tr-9ba583c0cd41] Validated phone number format +15550190006 (E.164 compliance OK)
+2026-09-28T09:01:13.262Z [INFO] [sms-worker-service] [tr-9ba583c0cd41] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM9c5ae7a260d1', status: 'queued')
+2026-09-28T09:01:24.586Z [INFO] [sms-worker-service] [tr-9708e8fcfdd4] SmsWorker consumed message offset 104507 for user usr_10807
+2026-09-28T09:01:24.594Z [INFO] [sms-worker-service] [tr-9708e8fcfdd4] Validated phone number format +15550190007 (E.164 compliance OK)
+2026-09-28T09:01:24.631Z [INFO] [sms-worker-service] [tr-9708e8fcfdd4] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM6112a8fc559d', status: 'queued')
+2026-09-28T09:01:36.893Z [INFO] [sms-worker-service] [tr-b991d5050043] SmsWorker consumed message offset 104508 for user usr_10808
+2026-09-28T09:01:36.901Z [INFO] [sms-worker-service] [tr-b991d5050043] Validated phone number format +15550190008 (E.164 compliance OK)
+2026-09-28T09:01:36.938Z [INFO] [sms-worker-service] [tr-b991d5050043] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM1e86faa7431b', status: 'queued')
+2026-09-28T09:01:48.417Z [INFO] [sms-worker-service] [tr-4dd3c2b8619d] SmsWorker consumed message offset 104509 for user usr_10809
+2026-09-28T09:01:48.425Z [INFO] [sms-worker-service] [tr-4dd3c2b8619d] Validated phone number format +15550190009 (E.164 compliance OK)
+2026-09-28T09:01:48.462Z [INFO] [sms-worker-service] [tr-4dd3c2b8619d] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMe96814fc5a5c', status: 'queued')
+2026-09-28T09:02:01.495Z [INFO] [sms-worker-service] [tr-805e34e4d588] SmsWorker consumed message offset 104510 for user usr_10810
+2026-09-28T09:02:01.503Z [INFO] [sms-worker-service] [tr-805e34e4d588] Validated phone number format +15550190010 (E.164 compliance OK)
+2026-09-28T09:02:01.540Z [INFO] [sms-worker-service] [tr-805e34e4d588] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM72187398e214', status: 'queued')
+2026-09-28T09:02:13.278Z [INFO] [sms-worker-service] [tr-c22481c2f3d5] SmsWorker consumed message offset 104511 for user usr_10811
+2026-09-28T09:02:13.286Z [INFO] [sms-worker-service] [tr-c22481c2f3d5] Validated phone number format +15550190011 (E.164 compliance OK)
+2026-09-28T09:02:13.323Z [INFO] [sms-worker-service] [tr-c22481c2f3d5] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMc0bf1a03d667', status: 'queued')
+2026-09-28T09:02:24.705Z [INFO] [sms-worker-service] [tr-551fe3399e22] SmsWorker consumed message offset 104512 for user usr_10812
+2026-09-28T09:02:24.713Z [INFO] [sms-worker-service] [tr-551fe3399e22] Validated phone number format +15550190012 (E.164 compliance OK)
+2026-09-28T09:02:24.750Z [INFO] [sms-worker-service] [tr-551fe3399e22] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SM95dde0b21d3a', status: 'queued')
+2026-09-28T09:02:36.337Z [INFO] [sms-worker-service] [tr-6bcd25b4cb13] SmsWorker consumed message offset 104513 for user usr_10813
+2026-09-28T09:02:36.345Z [INFO] [sms-worker-service] [tr-6bcd25b4cb13] Validated phone number format +15550190013 (E.164 compliance OK)
+2026-09-28T09:02:36.382Z [INFO] [sms-worker-service] [tr-6bcd25b4cb13] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMc92ac6eb85f2', status: 'queued')
+2026-09-28T09:02:48.282Z [INFO] [sms-worker-service] [tr-9d7dc6c41583] SmsWorker consumed message offset 104514 for user usr_10814
+2026-09-28T09:02:48.290Z [INFO] [sms-worker-service] [tr-9d7dc6c41583] Validated phone number format +15550190014 (E.164 compliance OK)
+2026-09-28T09:02:48.327Z [INFO] [sms-worker-service] [tr-9d7dc6c41583] Twilio SMS Gateway Response: HTTP 201 Created (sid: 'SMb3f563353118', status: 'queued')
+2026-09-28T09:00:00.946Z [INFO] [in-app-worker-service] [tr-5bf9674b843a] InAppWorker consumed message offset 104500 for user usr_10800
+2026-09-28T09:00:00.952Z [INFO] [in-app-worker-service] [tr-5bf9674b843a] WebSocket session active on pod ws-node-04 for user usr_10800. Pushing frame.
+2026-09-28T09:00:00.956Z [INFO] [in-app-worker-service] [tr-5bf9674b843a] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:00:13.211Z [INFO] [in-app-worker-service] [tr-6c92216a711c] InAppWorker consumed message offset 104501 for user usr_10801
+2026-09-28T09:00:13.217Z [INFO] [in-app-worker-service] [tr-6c92216a711c] WebSocket session active on pod ws-node-04 for user usr_10801. Pushing frame.
+2026-09-28T09:00:13.221Z [INFO] [in-app-worker-service] [tr-6c92216a711c] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:00:25.389Z [INFO] [in-app-worker-service] [tr-8e24632abf5c] InAppWorker consumed message offset 104502 for user usr_10802
+2026-09-28T09:00:25.395Z [INFO] [in-app-worker-service] [tr-8e24632abf5c] WebSocket session active on pod ws-node-04 for user usr_10802. Pushing frame.
+2026-09-28T09:00:25.399Z [INFO] [in-app-worker-service] [tr-8e24632abf5c] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:00:37.431Z [INFO] [in-app-worker-service] [tr-5969de71b433] InAppWorker consumed message offset 104503 for user usr_10803
+2026-09-28T09:00:37.437Z [INFO] [in-app-worker-service] [tr-5969de71b433] WebSocket session active on pod ws-node-04 for user usr_10803. Pushing frame.
+2026-09-28T09:00:37.441Z [INFO] [in-app-worker-service] [tr-5969de71b433] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:00:49.114Z [INFO] [in-app-worker-service] [tr-99b1159e72c7] InAppWorker consumed message offset 104504 for user usr_10804
+2026-09-28T09:00:49.120Z [INFO] [in-app-worker-service] [tr-99b1159e72c7] WebSocket session active on pod ws-node-04 for user usr_10804. Pushing frame.
+2026-09-28T09:00:49.124Z [INFO] [in-app-worker-service] [tr-99b1159e72c7] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:01:01.111Z [INFO] [in-app-worker-service] [tr-36ec948bad0d] InAppWorker consumed message offset 104505 for user usr_10805
+2026-09-28T09:01:01.117Z [INFO] [in-app-worker-service] [tr-36ec948bad0d] WebSocket session active on pod ws-node-04 for user usr_10805. Pushing frame.
+2026-09-28T09:01:01.121Z [INFO] [in-app-worker-service] [tr-36ec948bad0d] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:01:13.214Z [INFO] [in-app-worker-service] [tr-9ba583c0cd41] InAppWorker consumed message offset 104506 for user usr_10806
+2026-09-28T09:01:13.220Z [INFO] [in-app-worker-service] [tr-9ba583c0cd41] WebSocket session active on pod ws-node-04 for user usr_10806. Pushing frame.
+2026-09-28T09:01:13.224Z [INFO] [in-app-worker-service] [tr-9ba583c0cd41] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:01:24.583Z [INFO] [in-app-worker-service] [tr-9708e8fcfdd4] InAppWorker consumed message offset 104507 for user usr_10807
+2026-09-28T09:01:24.589Z [INFO] [in-app-worker-service] [tr-9708e8fcfdd4] WebSocket session active on pod ws-node-04 for user usr_10807. Pushing frame.
+2026-09-28T09:01:24.593Z [INFO] [in-app-worker-service] [tr-9708e8fcfdd4] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:01:36.890Z [INFO] [in-app-worker-service] [tr-b991d5050043] InAppWorker consumed message offset 104508 for user usr_10808
+2026-09-28T09:01:36.896Z [INFO] [in-app-worker-service] [tr-b991d5050043] WebSocket session active on pod ws-node-04 for user usr_10808. Pushing frame.
+2026-09-28T09:01:36.900Z [INFO] [in-app-worker-service] [tr-b991d5050043] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:01:48.414Z [INFO] [in-app-worker-service] [tr-4dd3c2b8619d] InAppWorker consumed message offset 104509 for user usr_10809
+2026-09-28T09:01:48.420Z [INFO] [in-app-worker-service] [tr-4dd3c2b8619d] WebSocket session active on pod ws-node-04 for user usr_10809. Pushing frame.
+2026-09-28T09:01:48.424Z [INFO] [in-app-worker-service] [tr-4dd3c2b8619d] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:02:01.492Z [INFO] [in-app-worker-service] [tr-805e34e4d588] InAppWorker consumed message offset 104510 for user usr_10810
+2026-09-28T09:02:01.498Z [INFO] [in-app-worker-service] [tr-805e34e4d588] WebSocket session active on pod ws-node-04 for user usr_10810. Pushing frame.
+2026-09-28T09:02:01.502Z [INFO] [in-app-worker-service] [tr-805e34e4d588] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:02:13.275Z [INFO] [in-app-worker-service] [tr-c22481c2f3d5] InAppWorker consumed message offset 104511 for user usr_10811
+2026-09-28T09:02:13.281Z [INFO] [in-app-worker-service] [tr-c22481c2f3d5] WebSocket session active on pod ws-node-04 for user usr_10811. Pushing frame.
+2026-09-28T09:02:13.285Z [INFO] [in-app-worker-service] [tr-c22481c2f3d5] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:02:24.702Z [INFO] [in-app-worker-service] [tr-551fe3399e22] InAppWorker consumed message offset 104512 for user usr_10812
+2026-09-28T09:02:24.708Z [INFO] [in-app-worker-service] [tr-551fe3399e22] WebSocket session active on pod ws-node-04 for user usr_10812. Pushing frame.
+2026-09-28T09:02:24.712Z [INFO] [in-app-worker-service] [tr-551fe3399e22] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:02:36.334Z [INFO] [in-app-worker-service] [tr-6bcd25b4cb13] InAppWorker consumed message offset 104513 for user usr_10813
+2026-09-28T09:02:36.340Z [INFO] [in-app-worker-service] [tr-6bcd25b4cb13] WebSocket session active on pod ws-node-04 for user usr_10813. Pushing frame.
+2026-09-28T09:02:36.344Z [INFO] [in-app-worker-service] [tr-6bcd25b4cb13] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:02:48.279Z [INFO] [in-app-worker-service] [tr-9d7dc6c41583] InAppWorker consumed message offset 104514 for user usr_10814
+2026-09-28T09:02:48.285Z [INFO] [in-app-worker-service] [tr-9d7dc6c41583] WebSocket session active on pod ws-node-04 for user usr_10814. Pushing frame.
+2026-09-28T09:02:48.289Z [INFO] [in-app-worker-service] [tr-9d7dc6c41583] WebSocket ACK received from client device in 12ms. Saved in-app inbox record.
+2026-09-28T09:00:01.015Z [INFO] [retry-scheduler-service] [tr-5bf9674b843a] Health Check: Monitoring delivery status for NotificationID: notif_eeb632ce
+2026-09-28T09:00:01.035Z [INFO] [retry-scheduler-service] [tr-5bf9674b843a] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:00:01.040Z [INFO] [retry-scheduler-service] [tr-5bf9674b843a] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:00:13.280Z [INFO] [retry-scheduler-service] [tr-6c92216a711c] Health Check: Monitoring delivery status for NotificationID: notif_9d0e306d
+2026-09-28T09:00:13.300Z [INFO] [retry-scheduler-service] [tr-6c92216a711c] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:00:13.305Z [INFO] [retry-scheduler-service] [tr-6c92216a711c] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:00:25.458Z [INFO] [retry-scheduler-service] [tr-8e24632abf5c] Health Check: Monitoring delivery status for NotificationID: notif_d42ecf81
+2026-09-28T09:00:25.478Z [INFO] [retry-scheduler-service] [tr-8e24632abf5c] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:00:25.483Z [INFO] [retry-scheduler-service] [tr-8e24632abf5c] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:00:37.500Z [INFO] [retry-scheduler-service] [tr-5969de71b433] Health Check: Monitoring delivery status for NotificationID: notif_d1900fd4
+2026-09-28T09:00:37.520Z [INFO] [retry-scheduler-service] [tr-5969de71b433] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:00:37.525Z [INFO] [retry-scheduler-service] [tr-5969de71b433] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:00:49.183Z [INFO] [retry-scheduler-service] [tr-99b1159e72c7] Health Check: Monitoring delivery status for NotificationID: notif_77dba856
+2026-09-28T09:00:49.203Z [INFO] [retry-scheduler-service] [tr-99b1159e72c7] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:00:49.208Z [INFO] [retry-scheduler-service] [tr-99b1159e72c7] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:01:01.180Z [INFO] [retry-scheduler-service] [tr-36ec948bad0d] Health Check: Monitoring delivery status for NotificationID: notif_19437b65
+2026-09-28T09:01:01.200Z [INFO] [retry-scheduler-service] [tr-36ec948bad0d] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:01:01.205Z [INFO] [retry-scheduler-service] [tr-36ec948bad0d] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:01:13.283Z [INFO] [retry-scheduler-service] [tr-9ba583c0cd41] Health Check: Monitoring delivery status for NotificationID: notif_3d960650
+2026-09-28T09:01:13.303Z [INFO] [retry-scheduler-service] [tr-9ba583c0cd41] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:01:13.308Z [INFO] [retry-scheduler-service] [tr-9ba583c0cd41] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:01:24.652Z [INFO] [retry-scheduler-service] [tr-9708e8fcfdd4] Health Check: Monitoring delivery status for NotificationID: notif_82a997b8
+2026-09-28T09:01:24.672Z [INFO] [retry-scheduler-service] [tr-9708e8fcfdd4] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:01:24.677Z [INFO] [retry-scheduler-service] [tr-9708e8fcfdd4] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:01:36.959Z [INFO] [retry-scheduler-service] [tr-b991d5050043] Health Check: Monitoring delivery status for NotificationID: notif_89dc2a02
+2026-09-28T09:01:36.979Z [INFO] [retry-scheduler-service] [tr-b991d5050043] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:01:36.984Z [INFO] [retry-scheduler-service] [tr-b991d5050043] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:01:48.483Z [INFO] [retry-scheduler-service] [tr-4dd3c2b8619d] Health Check: Monitoring delivery status for NotificationID: notif_b74e9300
+2026-09-28T09:01:48.503Z [INFO] [retry-scheduler-service] [tr-4dd3c2b8619d] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:01:48.508Z [INFO] [retry-scheduler-service] [tr-4dd3c2b8619d] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:02:01.561Z [INFO] [retry-scheduler-service] [tr-805e34e4d588] Health Check: Monitoring delivery status for NotificationID: notif_8c6e6432
+2026-09-28T09:02:01.581Z [INFO] [retry-scheduler-service] [tr-805e34e4d588] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:02:01.586Z [INFO] [retry-scheduler-service] [tr-805e34e4d588] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:02:13.344Z [INFO] [retry-scheduler-service] [tr-c22481c2f3d5] Health Check: Monitoring delivery status for NotificationID: notif_e663b015
+2026-09-28T09:02:13.364Z [INFO] [retry-scheduler-service] [tr-c22481c2f3d5] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:02:13.369Z [INFO] [retry-scheduler-service] [tr-c22481c2f3d5] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:02:24.771Z [INFO] [retry-scheduler-service] [tr-551fe3399e22] Health Check: Monitoring delivery status for NotificationID: notif_ac1ac004
+2026-09-28T09:02:24.791Z [INFO] [retry-scheduler-service] [tr-551fe3399e22] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:02:24.796Z [INFO] [retry-scheduler-service] [tr-551fe3399e22] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:02:36.403Z [INFO] [retry-scheduler-service] [tr-6bcd25b4cb13] Health Check: Monitoring delivery status for NotificationID: notif_bd776ab4
+2026-09-28T09:02:36.423Z [INFO] [retry-scheduler-service] [tr-6bcd25b4cb13] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:02:36.428Z [INFO] [retry-scheduler-service] [tr-6bcd25b4cb13] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:02:48.348Z [INFO] [retry-scheduler-service] [tr-9d7dc6c41583] Health Check: Monitoring delivery status for NotificationID: notif_f17c6850
+2026-09-28T09:02:48.368Z [INFO] [retry-scheduler-service] [tr-9d7dc6c41583] All 4 channels returned SUCCESS within SLA (< 150ms). Zero retries required.
+2026-09-28T09:02:48.373Z [INFO] [retry-scheduler-service] [tr-9d7dc6c41583] Scheduled retry queue depth: 0 items. DLQ status: CLEAN
+2026-09-28T09:00:01.045Z [INFO] [delivery-tracking-service] [tr-5bf9674b843a] Provider Webhook Received from SendGrid: sg_evt_88822302e2 (event: 'delivered')
+2026-09-28T09:00:01.050Z [INFO] [delivery-tracking-service] [tr-5bf9674b843a] Provider Webhook Received from Twilio: SM233ea2d92b92 (status: 'delivered')
+2026-09-28T09:00:01.057Z [INFO] [delivery-tracking-service] [tr-5bf9674b843a] Cassandra DB Update: NotificationID notif_eeb632ce marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:00:13.310Z [INFO] [delivery-tracking-service] [tr-6c92216a711c] Provider Webhook Received from SendGrid: sg_evt_e4f9728c52 (event: 'delivered')
+2026-09-28T09:00:13.315Z [INFO] [delivery-tracking-service] [tr-6c92216a711c] Provider Webhook Received from Twilio: SM5c5bb29d51a6 (status: 'delivered')
+2026-09-28T09:00:13.322Z [INFO] [delivery-tracking-service] [tr-6c92216a711c] Cassandra DB Update: NotificationID notif_9d0e306d marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:00:25.488Z [INFO] [delivery-tracking-service] [tr-8e24632abf5c] Provider Webhook Received from SendGrid: sg_evt_8d9716711d (event: 'delivered')
+2026-09-28T09:00:25.493Z [INFO] [delivery-tracking-service] [tr-8e24632abf5c] Provider Webhook Received from Twilio: SM6893303c8605 (status: 'delivered')
+2026-09-28T09:00:25.500Z [INFO] [delivery-tracking-service] [tr-8e24632abf5c] Cassandra DB Update: NotificationID notif_d42ecf81 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:00:37.530Z [INFO] [delivery-tracking-service] [tr-5969de71b433] Provider Webhook Received from SendGrid: sg_evt_77016d07b2 (event: 'delivered')
+2026-09-28T09:00:37.535Z [INFO] [delivery-tracking-service] [tr-5969de71b433] Provider Webhook Received from Twilio: SMd321463cba66 (status: 'delivered')
+2026-09-28T09:00:37.542Z [INFO] [delivery-tracking-service] [tr-5969de71b433] Cassandra DB Update: NotificationID notif_d1900fd4 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:00:49.213Z [INFO] [delivery-tracking-service] [tr-99b1159e72c7] Provider Webhook Received from SendGrid: sg_evt_abb56ef7b7 (event: 'delivered')
+2026-09-28T09:00:49.218Z [INFO] [delivery-tracking-service] [tr-99b1159e72c7] Provider Webhook Received from Twilio: SM480b65260f17 (status: 'delivered')
+2026-09-28T09:00:49.225Z [INFO] [delivery-tracking-service] [tr-99b1159e72c7] Cassandra DB Update: NotificationID notif_77dba856 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:01:01.210Z [INFO] [delivery-tracking-service] [tr-36ec948bad0d] Provider Webhook Received from SendGrid: sg_evt_60da3f3557 (event: 'delivered')
+2026-09-28T09:01:01.215Z [INFO] [delivery-tracking-service] [tr-36ec948bad0d] Provider Webhook Received from Twilio: SM06e3cad25752 (status: 'delivered')
+2026-09-28T09:01:01.222Z [INFO] [delivery-tracking-service] [tr-36ec948bad0d] Cassandra DB Update: NotificationID notif_19437b65 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:01:13.313Z [INFO] [delivery-tracking-service] [tr-9ba583c0cd41] Provider Webhook Received from SendGrid: sg_evt_b99727b52d (event: 'delivered')
+2026-09-28T09:01:13.318Z [INFO] [delivery-tracking-service] [tr-9ba583c0cd41] Provider Webhook Received from Twilio: SM26739700a0d2 (status: 'delivered')
+2026-09-28T09:01:13.325Z [INFO] [delivery-tracking-service] [tr-9ba583c0cd41] Cassandra DB Update: NotificationID notif_3d960650 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:01:24.682Z [INFO] [delivery-tracking-service] [tr-9708e8fcfdd4] Provider Webhook Received from SendGrid: sg_evt_5dfce34b03 (event: 'delivered')
+2026-09-28T09:01:24.687Z [INFO] [delivery-tracking-service] [tr-9708e8fcfdd4] Provider Webhook Received from Twilio: SMe6d4129888c5 (status: 'delivered')
+2026-09-28T09:01:24.694Z [INFO] [delivery-tracking-service] [tr-9708e8fcfdd4] Cassandra DB Update: NotificationID notif_82a997b8 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:01:36.989Z [INFO] [delivery-tracking-service] [tr-b991d5050043] Provider Webhook Received from SendGrid: sg_evt_11c5442cfb (event: 'delivered')
+2026-09-28T09:01:36.994Z [INFO] [delivery-tracking-service] [tr-b991d5050043] Provider Webhook Received from Twilio: SMf28c4f926a62 (status: 'delivered')
+2026-09-28T09:01:37.001Z [INFO] [delivery-tracking-service] [tr-b991d5050043] Cassandra DB Update: NotificationID notif_89dc2a02 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:01:48.513Z [INFO] [delivery-tracking-service] [tr-4dd3c2b8619d] Provider Webhook Received from SendGrid: sg_evt_45326d4e81 (event: 'delivered')
+2026-09-28T09:01:48.518Z [INFO] [delivery-tracking-service] [tr-4dd3c2b8619d] Provider Webhook Received from Twilio: SM1a344d13cce9 (status: 'delivered')
+2026-09-28T09:01:48.525Z [INFO] [delivery-tracking-service] [tr-4dd3c2b8619d] Cassandra DB Update: NotificationID notif_b74e9300 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:02:01.591Z [INFO] [delivery-tracking-service] [tr-805e34e4d588] Provider Webhook Received from SendGrid: sg_evt_111c41babf (event: 'delivered')
+2026-09-28T09:02:01.596Z [INFO] [delivery-tracking-service] [tr-805e34e4d588] Provider Webhook Received from Twilio: SMd8cb2a825bf7 (status: 'delivered')
+2026-09-28T09:02:01.603Z [INFO] [delivery-tracking-service] [tr-805e34e4d588] Cassandra DB Update: NotificationID notif_8c6e6432 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:02:13.374Z [INFO] [delivery-tracking-service] [tr-c22481c2f3d5] Provider Webhook Received from SendGrid: sg_evt_f826125353 (event: 'delivered')
+2026-09-28T09:02:13.379Z [INFO] [delivery-tracking-service] [tr-c22481c2f3d5] Provider Webhook Received from Twilio: SM2ad0f171b0d1 (status: 'delivered')
+2026-09-28T09:02:13.386Z [INFO] [delivery-tracking-service] [tr-c22481c2f3d5] Cassandra DB Update: NotificationID notif_e663b015 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:02:24.801Z [INFO] [delivery-tracking-service] [tr-551fe3399e22] Provider Webhook Received from SendGrid: sg_evt_c1b7ad861a (event: 'delivered')
+2026-09-28T09:02:24.806Z [INFO] [delivery-tracking-service] [tr-551fe3399e22] Provider Webhook Received from Twilio: SM655ee09efe39 (status: 'delivered')
+2026-09-28T09:02:24.813Z [INFO] [delivery-tracking-service] [tr-551fe3399e22] Cassandra DB Update: NotificationID notif_ac1ac004 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:02:36.433Z [INFO] [delivery-tracking-service] [tr-6bcd25b4cb13] Provider Webhook Received from SendGrid: sg_evt_0a4f9109da (event: 'delivered')
+2026-09-28T09:02:36.438Z [INFO] [delivery-tracking-service] [tr-6bcd25b4cb13] Provider Webhook Received from Twilio: SMf093a8febea4 (status: 'delivered')
+2026-09-28T09:02:36.445Z [INFO] [delivery-tracking-service] [tr-6bcd25b4cb13] Cassandra DB Update: NotificationID notif_bd776ab4 marked as DELIVERED across all channels. Total E2E Latency: 182ms
+2026-09-28T09:02:48.378Z [INFO] [delivery-tracking-service] [tr-9d7dc6c41583] Provider Webhook Received from SendGrid: sg_evt_93dd6bf925 (event: 'delivered')
+2026-09-28T09:02:48.383Z [INFO] [delivery-tracking-service] [tr-9d7dc6c41583] Provider Webhook Received from Twilio: SM837b22e596be (status: 'delivered')
+2026-09-28T09:02:48.390Z [INFO] [delivery-tracking-service] [tr-9d7dc6c41583] Cassandra DB Update: NotificationID notif_f17c6850 marked as DELIVERED across all channels. Total E2E Latency: 182ms
