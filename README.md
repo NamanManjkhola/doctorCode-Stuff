@@ -1,0 +1,13 @@
+# doctorCode-Stuff
+* **API Gateway &amp; Ingestion Service** (`api-gateway-service`)
+* **User Preference Service** (`user-preference-service`)
+* **Rate Limiter Service** (`rate-limiter-service`)
+* **Template Engine Service** (`template-engine-service`)
+* **Notification Router &amp; Orchestrator** (`notification-router`)
+* **Message Queue &amp; Stream Broker** (`kafka-queue-broker`)
+* **Push Notification Worker** (`push-worker-service`)
+* **Email Channel Worker** (`email-worker-service`)
+* **SMS Channel Worker** (`sms-worker-service`)
+* **In-App Feed Worker** (`in-app-worker-service`)
+* **Retry &amp; Dead Letter Queue Scheduler** (`retry-scheduler-service`)
+* **Delivery Tracking &amp; Webhook Ingestion Service** (`delivery-tracking-service`)
